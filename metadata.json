@@ -1,0 +1,6 @@
+{
+  "name": "Smart Tutor Network",
+  "description": "Daily tuition media and tutor marketplace platform in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
